@@ -1,0 +1,25 @@
+<?xml version ="1.0" encoding ="UTF-8"?>
+<?xml-stylesheet type="text/css" href="device.css"?>
+<products>
+  <product id="p1" class="special">
+    <name>Laptop</name>
+     <price>$70.00</price>
+       <review>4.8</review>
+  </product>
+   <product id="p2" class="special">
+    <name>Phone</name>
+     <price>$60.00</price>
+       <review>4.6</review>
+  </product>
+     <product id="p3" class="special">
+    <name>Headphone</name>
+     <price>$30.00</price>
+       <review>4.5</review>
+  </product>
+     <product id="p4" class="special">
+    <name>Watch</name>
+     <price>$40.00</price>
+       <review>4.7</review>
+  </product>
+  
+</products>

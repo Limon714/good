@@ -1,0 +1,225 @@
+body{
+    position: absolute;
+    height: 2300px;
+    margin: 0;
+    padding: 0;
+    left: 0;
+    right: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+.all{
+    position:absolute;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.hero{
+    position: absolute;
+    width: 100%;
+    height: 763px;
+    background-color: #fcd139;
+}
+.navbar{
+    position: absolute;
+    width: 100%;
+    top:20px;
+}
+.navbar img{
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+}
+.pages{
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 15%;
+}
+.pages a{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    color: #fff;
+}
+.register{
+    position: absolute;
+    right: 0;
+    top: 15px;
+    height: 35px;
+    background-color: #FFC700;
+    border: 1px solid #957400;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+}
+.register a{
+    color: #fff;
+    padding: 10px 10px;
+}
+.header{
+    position: absolute;
+    top: 174px;
+    width: 100%;
+    margin-left: 4%;
+}
+.header h1{
+    width: 100%;
+    left: 0px;
+    font-style: normal;
+    font-size: 44px;
+    font-weight: bold;
+    line-height: 40px;
+    color: #fff;
+    margin-top: 150px;
+}
+.header p{
+    margin-left: 5px;
+    width: 50%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 26px;
+    color: #543700;
+}
+.header img{
+    position: absolute;
+    right: 40px;
+    height: 589px;
+    top: 0;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    position:absolute;
+    height: 290px;
+    left: 5%;
+    right: 5%;
+    top: 820px;
+}
+.img1, .img2, .img3{
+    margin: 0px 30px;
+}
+.buy{
+    position: absolute;
+    width: 100%;
+    top:1180px;
+}
+.buy h1{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000;
+}
+.buy p{
+    width: 50%;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #6a6a6a;
+}
+.cart{
+    position: absolute;
+    top: 1390px;
+    text-align: right;
+    width: 100%;
+}
+.cart h1{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000;
+}
+.cart p{
+    width: 50%;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #6a6a6a;
+    position: absolute;
+    right: 0;
+    text-align: right;
+}
+.form{
+    position: absolute;
+    top: 1750px;
+    width: 60%;
+    margin: 0 25%;
+}
+form input{
+    position: absolute;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    width: 100%;
+    height: 58px;
+    background: #f2f2f2;
+}
+.firstname, .Lastname, .Email{
+    position: absolute;
+    border-radius: 60px;
+}
+.firstname{
+    top: 0;
+}
+.Lastname{
+    top: 80px;
+}
+.Email{
+    top: 160px;
+}
+.submit{
+    position: absolute;
+    cursor: pointer;
+    top: 250px;
+    margin: 0 42%;
+    width: 16%;
+    height: 40px;
+    background-color: #ffc700;
+    border: 1px solid #957400;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 14px;
+    color: #fff;
+}
+input[type="text"] {
+    padding: 0 20px;
+}
+.icons{
+    position: absolute;
+    background:#ffd439;
+    bottom: 0;
+    width: 100%;
+    height: 155px;;
+}
+.button{
+    position: absolute;
+    top: 20px;
+    flex-direction: row;
+    display: flex;
+    align-items: flex-start;
+    padding: 0px;
+    left: calc(55% - 190px/2);
+}
+.button img{
+    width: 53px;
+    height: 53px;
+    margin: 5px;
+}
+.button p{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 60px;
+    left: 25px;
+    color: #fff;
+}
