@@ -83,3 +83,33 @@ i{
     margin-left: 200px;
     width: 70%;
 } 
+p span{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #3f0152;
+    text-decoration: underline;
+}
+@media screen and (max-width:660px) {
+  
+    .navbar{
+        background-color:rgba(61, 60, 60, 0.877);
+        height: 170px;
+    }
+    .pages a{
+        font-size: 14px;
+        display: flex;
+        flex-direction: column;
+    }
+    .p1{
+        margin-left: 70px;
+        margin-top: 180px;
+    }
+    .p2,.p3{
+        margin-left: 70px; 
+    }
+    .icons{
+        position: relative;
+        margin-top: 15px;
+    }
+}
