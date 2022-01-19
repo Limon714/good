@@ -178,3 +178,26 @@ button:hover{
   transition: .5s;
   cursor: pointer;
 }
+@media screen and (max-width:660px) {
+  
+  .navbar{
+      background-color:rgba(61, 60, 60, 0.877);
+      height: 170px;
+  }
+  .pages a{
+      font-size: 14px;
+      display: flex;
+      flex-direction: column;
+  }
+  .carousel .card-1, .carousel .card-2, .carousel .card-3, .carousel .card-4, .carousel .card-5{
+     height: 100px;
+     width: 100px;
+     margin-top: 150px;
+  }
+  .carousel{
+    max-width: 350px;
+    margin: auto;
+    padding: 0 5px;
+  }
+}
+
