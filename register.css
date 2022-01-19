@@ -6,10 +6,6 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-  /* min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center; */
   background: #4070f4;
 }
 .navbar{
@@ -33,7 +29,7 @@ body{
 }
 .pages a{
   margin-left: 50px;
-  font-weight: bold;
+  font-weight: 600px;
   font-size: 22px;
   line-height: 26px;
   color: #fff;
@@ -62,7 +58,7 @@ body{
   background: #fff;
   padding: 24px;
   margin-top: 60px;
-  margin-left: 400px;
+  margin-left: 420px;
   border-radius: 6px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
@@ -154,5 +150,5 @@ form .text h3 a:hover{
 i{
   width: 20px;
   height: 20px;
-  margin:  5px 0px 2px 5px;
+  margin:  5px 0px 2px 0px;
 }
