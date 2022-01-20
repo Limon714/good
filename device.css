@@ -48,3 +48,9 @@ deviceDetails{
     font-size: 30px;
     margin-left: 430px;
 }
+@media screen and (max-width:660px) {
+    deviceDetails{
+        margin-left: 10px;
+        font-size: 24px;
+    }
+}
