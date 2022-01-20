@@ -96,7 +96,7 @@ form .policy{
   align-items: center;
 }
 form h3{
-  color: #707070;
+  color: #faf6f6;
   font-size: 14px;
   font-weight: 500;
   margin-left: 10px;
@@ -112,7 +112,7 @@ a{
   text-decoration: none;
 }
 form .text h3{
- color: #333;
+ color: rgb(252, 238, 238);
  width: 100%;
  text-align: center;
 }
@@ -166,7 +166,7 @@ i{
     max-width: 270px;
     max-height: 50%;
     width: 100%;
-    background: #fff;
+    background: rgb(124, 61, 61);
     padding: 10px;
     margin-top: 190px;
     margin-left: 35px;
