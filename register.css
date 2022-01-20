@@ -53,18 +53,16 @@ body{
   max-width: 450px;
   max-height: 70%;
   width: 100%;
-  background: #fff;
+  background: rgb(124, 61, 61);
   padding: 24px;
   margin-top: 60px;
   margin-left: 420px;
-  border-radius: 6px;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
 }
 .wrapper h2{
   position: relative;
-  font-size: 26px;
+  font-size: 23px;
   font-weight: 600;
-  color: #333;
+  color: rgb(27, 7, 7);
 }
 .wrapper h2::before{
   content: '';
@@ -81,7 +79,7 @@ body{
 }
 .wrapper form .input-box{
   height: 40px;
-  margin: 10px 10px;
+  margin: 7px 10px;
 }
 form .input-box input{
   height: 100%;
@@ -91,14 +89,7 @@ form .input-box input{
   font-size: 17px;
   font-weight: 400;
   color: #333;
-  border: 1.5px solid #C7BEBE;
-  border-bottom-width: 2.5px;
-  border-radius: 6px;
-  transition: all 0.3s ease;
-}
-.input-box input:focus,
-.input-box input:valid{
-  border-color: #4070f4;
+  border-bottom-width: .5px;
 }
 form .policy{
   display: flex;
@@ -114,14 +105,11 @@ form h3{
   color: #fff;
   letter-spacing: 1px;
   border: none;
-  background: #4070f4;
+  background: #000208;
   cursor: pointer;
 }
 a{
   text-decoration: none;
-}
-.input-box.button input:hover{
-  background: #0e4bf1;
 }
 form .text h3{
  color: #333;
