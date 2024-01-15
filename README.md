@@ -1,3 +1,5 @@
 # SSL COMMERCE PAYMENT GATEWAY
-<img width="691" alt="sslcommerz-card-entry" src="https://github.com/Limon714/ssl_payment_gateway/assets/72975868/fc476dec-19fb-46c5-99dc-289602eed276">
-![sslcommerz-all-card](https://github.com/Limon714/ssl_payment_gateway/assets/72975868/fb9b58a4-7b7a-466b-95f8-76bcce10ec3a)
+![Screenshot_33](https://github.com/Limon714/ssl_payment_gateway/assets/72975868/ba60dc53-5d44-45c7-9d40-896ec3770179)
+
+<img width="691" alt="sslcommerz-card-entry" src="https://github.com/Limon714/ssl_payment_gateway/assets/72975868/cac34821-5cc7-4b4c-a929-17c794741a61">
+
